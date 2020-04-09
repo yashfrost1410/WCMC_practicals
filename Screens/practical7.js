@@ -5,7 +5,7 @@ import Constants from 'expo-constants';
 //import AssetExample from './components/AssetExample';
 // or any pure javascript modules available in npm
 //import { Card } from 'react-native-paper';
-export default class App extends React.Component {
+export default class Practical7 extends React.Component {
     constructor(Props) {
         super(Props);
         this.state = {

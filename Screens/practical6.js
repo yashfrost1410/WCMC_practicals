@@ -4,7 +4,7 @@ import { StyleSheet, Input, TextInput, Text, View, Button, Alert, Props } from '
 import Torch from 'react-native-torch';
 
 
-export default class Temp extends Component {
+export default class practical6 extends Component {
     torchlighton = () => {
         Torch.switchState(true); // Turn ON
     }

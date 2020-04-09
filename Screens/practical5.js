@@ -7,7 +7,7 @@ import Constants from 'expo-constants';
 // or any pure javascript modules available in npm
 import { Card } from 'react-native-paper';
 
-export default class App extends React.Component {
+export default class Practical5 extends React.Component {
   Check = () => {
     setInterval(() => ToastAndroid.show("Hello World", ToastAndroid.SHORT), 3000);
   }
